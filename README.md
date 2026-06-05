@@ -39,7 +39,7 @@ tic-tac-toe/
 
 ## Future Improvements
 
-- Single-player mode vs AI.
+- Multi-player mode vs AI.
 - Score tracking across rounds.
 - Sound effects and animations.
 
